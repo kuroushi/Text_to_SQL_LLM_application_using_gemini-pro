@@ -1,0 +1,3 @@
+This project is a fully functional end-to-end Text-to-SQL AI application that leverages Google Gemini Pro to convert natural language queries into structured SQL statements. The application then executes these queries on a connected SQLite3 database and displays the results in an interactive Streamlit web interface.
+
+With Google Gemini Pro's advanced language capabilities, users can seamlessly interact with a database using plain English queries, eliminating the need for manual SQL writing. The Streamlit-powered UI ensures a user-friendly experience, making it easy to input queries, view generated SQL statements, and analyze results in real time.
